@@ -1,0 +1,10 @@
+{
+  "name": "Readable Marxists",
+  "version": "0.1",
+  "content_scripts": [
+    {
+      "matches": ["http://www.marxists.org/*", "https://www.marxists.org/*"],
+      "css": ["readable_marxists.css"]
+    }
+  ]
+}
