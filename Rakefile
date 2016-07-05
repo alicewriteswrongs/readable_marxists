@@ -5,5 +5,5 @@ task :clean do |t|
 end
 
 task :zip do |t|
-  sh "zip -r readable_marxists.zip ./* -x .git -x Rakefile"
+  sh "zip -r readable_marxists.zip ./* -x .git Rakefile README.md"
 end
