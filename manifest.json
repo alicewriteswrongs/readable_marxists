@@ -1,6 +1,7 @@
 {
   "name": "Readable Marxists",
   "version": "0.1",
+  "manifest_version": 2,
   "content_scripts": [
     {
       "matches": ["http://www.marxists.org/*", "https://www.marxists.org/*"],
