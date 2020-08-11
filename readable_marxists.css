@@ -1,9 +1,13 @@
 body {
     max-width: 900px;
-    margin: auto;
+    margin: auto !important;
     font-size: 25px;
 }
 
 body p {
     font-size: 25px;
+}
+
+body p.fst {
+    font-size: 20px;
 }
