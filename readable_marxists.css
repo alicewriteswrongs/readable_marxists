@@ -1,4 +1,9 @@
 body {
-    max-width: 650px;
+    max-width: 900px;
     margin: auto;
+    font-size: 25px;
+}
+
+body p {
+    font-size: 25px;
 }
