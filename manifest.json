@@ -1,6 +1,6 @@
 {
   "name": "Readable Marxists",
-  "version": "0.1",
+  "version": "0.2",
   "short_name": "Make marxists.org a little nicer",
   "manifest_version": 2,
   "icons": {
