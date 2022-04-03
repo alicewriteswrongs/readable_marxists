@@ -4,7 +4,7 @@ body {
     font-size: 25px;
 }
 
-body p {
+body p, body p.fst {
     font-size: 25px;
 }
 
@@ -13,6 +13,6 @@ body p.quote {
     font-style: italic;
 }
 
-body p.fst, body p.endnote {
+body p.endnote {
     font-size: 20px;
 }
